@@ -1,0 +1,17 @@
+commit 5ec6a09ebbd4bdbc40b8e5f1ce280c8866070b02 (HEAD -> master)
+Author: Piotr <vipperros@gmail.com>
+Date:   Mon Apr 13 19:13:14 2020 +0200
+
+    smieci
+
+commit 187cfcc8e1b7693d60f9d4715376d807282d726c
+Author: Piotr <vipperros@gmail.com>
+Date:   Mon Apr 13 19:12:06 2020 +0200
+
+    ignorowanie .docx
+
+commit 034a7d9b7fbde71d8d8777bf5bc38b4a335bf193 (zdalny/master)
+Author: Piotr <vipperros@gmail.com>
+Date:   Mon Apr 13 19:06:49 2020 +0200
+
+    ciuchcia
